@@ -6,7 +6,7 @@ Armazenar os estudos voltados a algorítmos e lógica de programação.
 
 ## Primeiros passos
 
-Criar conta no [LeetCode](https://leetcode.com/problemset/).
+Criar conta no [LeetCode](https://leetcode.com/problemset/). - Criado conta no Leetcode
 Primeiro desafio: [Add two numbers](https://leetcode.com/problems/add-two-numbers/).
 
 ## Video Aulas
